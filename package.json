@@ -1,0 +1,27 @@
+{
+  "author": "ergotamin <ergotamin@e-p-s.org> (https://e-p-s.org/ergotamin)",
+  "dependencies": {
+    "@babel/preset-env": "^7.0.0-beta.49",
+    "@babel/preset-react": "^7.0.0-beta.49",
+    "babel-plugin-styled-components": "^1.5.1"
+  },
+  "description": "preset-env & preset-react with babel-plugin-styled-components",
+  "keywords": [
+    "babel-preset-react-styled",
+    "babel-preset-react",
+    "babel-preset-styled",
+    "babel-preset-styled-components",
+    "babel-preset"
+  ],
+  "license": "ISC",
+  "name": "babel-preset-react-styled",
+  "repository": {
+    "type": "git",
+    "url": "https://git.e-p-s.org/ergotamin/script/js/babel-preset-react-styled"
+  },
+  "private": false,
+  "files": [
+    "index.js"
+  ],
+  "version": "1.2.0"
+}
